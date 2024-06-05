@@ -7,11 +7,13 @@ Use the TRIM function to eliminate unnecessary spaces.
 
 • Combine 'City', 'State', and 'Country':
 Use the CONCATENATE function to merge these fields into a single column.
-• IAbbreviate 'United States' to 'US':
+• Abbreviate 'United States' to 'US':
 
 
 Create a new column and use the SUBSTITUTE function to replace 'United States' with 'US'.
-• IAdd Unique Identifier and Enrollment Year:
+
+
+• Add Unique Identifier and Enrollment Year:
 
 
 Utilize the LEFT and MID functions to extract and provide unique identifiers and enrollment years.
