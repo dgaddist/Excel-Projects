@@ -1,4 +1,6 @@
 Data Cleaning for Over 1000 Students
+
+
 • Remove Extra Spaces from 'Country':
 Use the TRIM function to eliminate unnecessary spaces.
 • Combine 'City', 'State', and 'Country':
@@ -9,6 +11,8 @@ Create a new column and use the SUBSTITUTE function to replace 'United States' w
 Utilize the LEFT and MID functions to extract and provide unique identifiers and enrollment years.
 
 Solid-Woods-Pivot-Tables
+
+
 • Imported and summarized Solid Wood Works furniture data using Pivot Tables with slicing and 
 filtering features.
 • Created Pivot Charts to display monthly sales totals per item, with regional filtering capabilities.
